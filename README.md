@@ -8,4 +8,4 @@ along with "Typer" for the Cli config
 I'll be using a venv for this project as the requirements will fall outside of
 the scope for what I normally do.
 
-
+https://realpython.com/python-typer-cli/
